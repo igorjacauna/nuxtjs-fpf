@@ -1,0 +1,17 @@
+{
+  "name": "my-app",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxtjs/auth-next": "5.0.0-1607967355.df8f01e",
+    "@nuxtjs/axios": "^5.12.4",
+    "nuxt": "^2.14.11"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}
